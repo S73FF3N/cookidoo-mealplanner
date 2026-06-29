@@ -1,0 +1,6 @@
+Django
+cookidoo-api
+google-genai
+python-decouple
+requests
+aiohttp
